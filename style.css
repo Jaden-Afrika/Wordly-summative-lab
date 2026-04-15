@@ -64,3 +64,25 @@ body {
 .R1M2 a:hover {
     color: #24407b;
 }
+
+.page-footer {
+    background-color: #5b4029;
+    color: #e6d5c2;
+    text-align: center;
+    padding: 20px 15px;
+    border-top: 1px solid #3b2a1a;
+}
+
+.page-footer .footer-content {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.page-footer p {
+    margin: 5px 0;
+    font-size: 0.95rem;
+}
+
+.page-footer p:first-child {
+    font-weight: 600;
+}
